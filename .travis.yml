@@ -1,0 +1,8 @@
+language: node_js
+script:
+  - npm test
+deploy:
+  provider: heroku
+  api_key: "b8d835ad-15af-4bc0-8e8b-280436715146"
+  app:
+    master: toolio
