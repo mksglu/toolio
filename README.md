@@ -17,7 +17,7 @@ $ git clone git@github.com:<username>/toolio.git
 
 ### Configuration
 
-The `.env` file includes some important configuration settings. That's why you should create a new `.env` file in project. You can set these configurations if you need but now you can use above config directly. 
+The `.env` file includes some important configuration settings. That's why you should create a new `.env` file in project. You can set these configurations if you need but now you can use the below config directly. 
 
 Keys: `PORT`, `API_KEY`, `API_URL`, `PROTOCOL`
 
@@ -35,19 +35,27 @@ In Heroku, you can set easily using CLI or Heroku UI.
 
 #### Using yarn:
 
-`$ yarn`
+```
+$ yarn
+```
 
 #### Using npm:
 
-`$ npm install`
+```
+$ npm install
+```
 
 ### Development Mode
 
-`$ npm run dev`
+```
+$ npm run dev
+```
 
 ### Production Mode
 
-`$ npm run build`
+```
+$ npm run build
+```
  
 ### TDD
 
