@@ -23,8 +23,8 @@ Keys: `PORT`, `API_KEY`, `API_URL`, `PROTOCOL`
 
 ```
 PORT = 3000
-API_KEY = c873d395f841c64634c5330ce9118c9d
-PASSWORD = 5dcf9317c6ff86ea61d21b0d4dd0a1a8
+API_KEY = 
+PASSWORD = 
 API_URL = toolio-retail.myshopify.com
 PROTOCOL = https
 ```
